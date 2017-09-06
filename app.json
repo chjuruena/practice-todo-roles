@@ -1,0 +1,6 @@
+{
+        "name": "practice-todo-app-roles",
+        "description": "Simple todo app with roles created using Ionic 3/Angular 4",
+        "repository": "https://github.com/chjuruena/practice-todo-roles",
+        "keywords": ["ionic3","angular", "heroku"]
+    }

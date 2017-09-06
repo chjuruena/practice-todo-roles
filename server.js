@@ -5,8 +5,8 @@ var logger = require('morgan');
 var bodyParser = require('body-parser');
 var cors = require('cors');
  
-var databaseConfig = require('./config/database');
-var router = require('./app/routes');
+var databaseConfig = require('./server/config/database');
+var router = require('./server/app/routes');
  
 mongoose.connect(databaseConfig.url);
  
